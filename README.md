@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there , I'm Arnau Briet👋
+
+I'm a software engineer and self-taught student from Barcelona, Spain 🇪🇸
+
+About me
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bri3t&show_icons=true&theme=tokyonight)
 
@@ -13,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

@@ -4,6 +4,8 @@ I'm a software engineer and self-taught student from Barcelona, Spain 🇪🇸
 
 About me
 ...
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bri3t&show_icons=true&theme=tokyonight)
 
 <!--

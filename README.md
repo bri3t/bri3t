@@ -1,6 +1,6 @@
 ### Hi there , I'm Arnau Briet👋
 
-![](https://komarev.com/ghpvc/?username=bri3t&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=bri3t&style=flat&color=blue)
 
 
 I'm a software engineer and self-taught student from Barcelona, Spain 🇪🇸

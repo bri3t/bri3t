@@ -5,7 +5,7 @@ I'm a software engineer and self-taught student from Barcelona, Spain 🇪🇸
 About me
 ...
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bri3t&hide=stars&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bri3t&hide=stars&count_private=false&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bri3t&show_icons=true&theme=tokyonight) -->
 
 <!--

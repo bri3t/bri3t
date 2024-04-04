@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=bri3t&style=flat&color=blue)
 
 
-I'm a software engineer and self-taught student from Barcelona, Spain 🇪🇸
-
 About me
+I'm a software engineer and self-taught student from Barcelona, Spain 🇪🇸
+Currently working at [Tech-Impulse S.L](https://www.tech-impulse.com/)
 ...
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bri3t&hide=stars&count_private=false&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -5,7 +5,7 @@
 
 About me
 I'm a software engineer and self-taught student from Barcelona, Spain 🇪🇸
-Currently working at [Tech-Impulse S.L](https://www.tech-impulse.com/)
+Currently working at [Tech-Impulse S.L](https://www.tech-impulse.com/)🛠
 
 ...
 

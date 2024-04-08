@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bri3t&show_icons=true&theme=tokyonight&locale=en" alt="bri3t" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bri3t&" alt="bri3t" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bri3t&theme=dark" alt="bri3t" /></p>
 

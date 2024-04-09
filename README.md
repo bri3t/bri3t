@@ -106,13 +106,14 @@
 
 ###
 
+<!--
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bri3t" alt="bri3t" />
   </a>
 </p>
-
+-->
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/arnaubriet">

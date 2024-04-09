@@ -109,7 +109,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bri3t/bri3t/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bri3t/bri3t/output/snake.svg?palette=github-dark?palette=github-dark" />
   
   <br/><br/><br/>
 </div>

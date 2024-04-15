@@ -151,13 +151,20 @@
 
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bri3t&show_icons=true&theme=tokyonight&locale=en" alt="bri3t" />
-  </p>
+<p>
   
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bri3t&theme=dark" alt="bri3t" />
-  </p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bri3t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![](https://github-readme-stats.vercel.app/api?username=bri3t&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</p>
+<p>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=bri3t&theme=radical&hide_border=false)<br/>
+</p>
+<p>
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bri3t&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+
+   
 </div>
 
 ###

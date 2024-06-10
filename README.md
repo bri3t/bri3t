@@ -187,6 +187,7 @@
   </a>
 </p>
 -->
+<!--
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/arnaubriet">
@@ -194,3 +195,4 @@
   </a>
 </p>
 <br>
+-->

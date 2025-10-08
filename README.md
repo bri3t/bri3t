@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Arnau Briet</h1>
+<h1 align="left">Hi, I'm Arnau Briet</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bri3t&label=Profile%20views&color=0e75b6&style=flat" alt="bri3t" />
 </p>
@@ -6,30 +6,48 @@
 ###
 
 
-<p align="left">I'm a software engineer and self-taught student from Barcelona, Spain 🇪🇸</p>
+<p align="left">
+  I'm a Computer Engineering student at <strong>La Salle – URL (Barcelona)</strong> and a software developer focused on <strong>DeFi/Web3</strong>.<br/>
+  Currently deep-diving into foundry, smart contracts, protocol design, security, and tooling around the EVM.
+</p>
+  
+**Recent Update**:
+- **September 2024**: UDL HackEPS <strong>winners</strong>: 
+    - Developed a responsive web application for the GFT Technologies challenge.
+- **September 2025**: Personal Project:
+    - ERC-4626 vault built on Euler (EVK + EVC) that abstracts a looping strategy into a tokenized position.  
 
 ###
 
 <!-- - 👨‍💻 All of my projects are available at [www.arnaubriet.com](www.arnaubriet.com) -->
 
-- 📫 How to reach me **arnaubriet@gmail.com**
+<!-- - 📫 How to reach me **arnaubriet@gmail.com** -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/arnau-briet-roura" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnau-briet-roura" height="30" width="40" />
-  </a>
-</p>
-
-###
 
 <h2 align="left">I code with</h2>
 
 ###
 
-<h4 align="left">Web:</h4>
+<h4 align="left">Blockchain:</h4>
+<p align="left">
+  <a href="https://solidity-es.readthedocs.io/es/latest/" alt="">
+    <img src="https://w7.pngwing.com/pngs/907/608/png-transparent-solidity-ethereum-smart-contract-blockchain-neo-others-angle-triangle-logo.png" width="40" height="40"/>
+  </a>
+  <a href="https://wagmi.sh/" alt="wagmi">
+    <img src="https://wagmi.sh/logo-dark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://chain.link/" alt="chainlink">
+    <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" width="40" height="40" alt="chainlink" />
+  </a>
+  <a href="https://viem.sh/" alt="viem">
+    <img src="https://viem.sh/icon-dark.png" width="40" height="40"/>
+  </a>
+  <a href="https://docs.ethers.org/v6/" alt="viem">
+    <img src="https://uploads-ssl.webflow.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs.png" width="40" height="40"/>
+  </a>
+</p>
 
-###
+<h4 align="left">Web:</h4>
 
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;"> 
@@ -152,10 +170,14 @@
 
 <div align="center">
 <p>
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/arnau-briet-roura" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnau-briet-roura" height="30" width="40" />
+  </a>
+</p>
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=bri3t&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> 
--->
 </p>
 <p>
   
@@ -163,14 +185,10 @@
 </p>
 <p>
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bri3t&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
 
-   
-</div>
 
-###
 
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -178,21 +196,5 @@
   
   <br/><br/><br/>
 </div>
+-->
 
-<!--
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bri3t" alt="bri3t" />
-  </a>
-</p>
--->
-<!--
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/arnaubriet">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arnaubriet" />
-  </a>
-</p>
-<br>
--->

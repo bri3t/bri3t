@@ -12,10 +12,14 @@
 </p>
   
 **Recent Update**:
-- **September 2024**: UDL HackEPS <strong>winners</strong>: 
+- **November 2024**: UDL HackEPS <strong>winners</strong>: 
     - Developed a responsive web application for the GFT Technologies challenge.
 - **September 2025**: Personal Project:
-    - ERC-4626 vault built on Euler (EVK + EVC) that abstracts a looping strategy into a tokenized position.  
+    - ERC-4626 vault built on Euler (EVK + EVC) that abstracts a looping strategy into a tokenized position.
+- **October 2025**: Online ETH Global 2025 hackathon:
+    - Build and deployed a Futarchy-powered DeFi governance protocol: PYUSD payments, Pyth Pull oracles, executed on Hedera.
+
+
 
 ###
 
@@ -37,12 +41,12 @@
     <img src="https://wagmi.sh/logo-dark.svg" width="40" height="40"/>
   </a>
   <a href="https://chain.link/" alt="chainlink">
-    <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" width="40" height="40" alt="chainlink" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQG7VLkgiQhDj-m-jmXN246LOJEtMaLAjEw&s" width="40" height="40" alt="chainlink" />
   </a>
   <a href="https://viem.sh/" alt="viem">
     <img src="https://viem.sh/icon-dark.png" width="40" height="40"/>
   </a>
-  <a href="https://docs.ethers.org/v6/" alt="viem">
+  <a href="https://docs.ethers.org/v6/" alt="ethers">
     <img src="https://uploads-ssl.webflow.com/6433e6f821ae13dd37394322/64393ec631a32b4da0ee030c_ethersjs.png" width="40" height="40"/>
   </a>
 </p>

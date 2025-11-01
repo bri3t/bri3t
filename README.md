@@ -9,6 +9,8 @@
 <p align="left">
   I'm a Computer Engineering student at <strong>La Salle – URL (Barcelona)</strong> and a software developer focused on <strong>DeFi/Web3</strong>.<br/>
   Currently deep-diving into foundry, smart contracts, protocol design, security, and tooling around the EVM.
+  
+  I'm fully aware of the high level that's required and of how many technologies I still have to learn, but that only motivates me even more.
 </p>
   
 **Recent Update**:

@@ -7,8 +7,10 @@
 
 
 <p align="left">
-  I'm a Computer Engineering student at <strong>La Salle – URL (Barcelona)</strong> and a software developer focused on <strong>DeFi/Web3</strong>.<br/>
-  Currently deep-diving into foundry, smart contracts, protocol design, security, and tooling around the EVM.
+  I’ve been involved in the blockchain space for over 5 years as a self-taught analyst.
+  Over the last 1–2 years, I’ve been actively learning and building with Solidity while pursuing a Computer Engineering degree. I recently decided to pause my studies to fully focus on DeFi      development and work professionally in the space.
+
+  Currently deep-diving into Solidity, Foundry, smart contract architecture, protocol design, security, and EVM tooling.
   
   I'm fully aware of the high level that's required and of how many technologies I still have to learn, but that only motivates me even more.
 </p>
